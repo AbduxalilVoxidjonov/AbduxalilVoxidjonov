@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Android studio, java, kotlin**
 
-- 👨‍💻 All of my projects are available at [https://t.me/abduxalil_voxidjonov](https://t.me/AbduxalilVoxidjonov)
+- 👨‍💻 All of my projects are available at [https://t.me/abduxalilvoxidjonov](https://t.me/AbduxalilVoxidjonov)
 
-- 📝 I regularly write articles on [https://t.me/abduxalil_voxidjonov](https://t.me/AbduxalilVoxidjonov)
+- 📝 I regularly write articles on [https://t.me/abduxalilvoxidjonov](https://t.me/AbduxalilVoxidjonov)
 
 - 📫 How to reach me **abduhalilvohidjonov@gmail.com**
 
